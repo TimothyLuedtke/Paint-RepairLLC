@@ -2772,7 +2772,7 @@ body.homepage.is-preload #header:after {
   /* width: 18em; */
   background: #fff;
   text-align: center;
-  padding: 0 1em 3em 1em;
+  /* padding: 0 1em 3em 1em; */
   /* margin: 0 2em 0 0; */
   white-space: normal;
   opacity: 1;
@@ -3330,12 +3330,12 @@ body.homepage.is-preload #header:after {
   }
 
   .carousel .reel {
-    padding: 0 0.5em 0 0.5em;
+    padding: 0;
   }
 
   .carousel article {
-    /* width: 18em; */
-    padding-bottom: 2em;
+    width: 100%;
+    padding: 0;
     /* margin: 0 0.5em 0 0; */
   }
 
